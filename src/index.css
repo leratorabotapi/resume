@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Roboto:400,700,900&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', 'Roboto';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+p {
+  font-family: "Lato", sans-serif;
+}
+
+code {
+  font-family: "Lato", source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

@@ -26,12 +26,12 @@ function Header(props) {
   <Row>
     <Col>
 	<h2 style={h2} >About Me</h2>
-	<p style={p1}>Currently in Cape Town South Africa / University of Cape Town (2020)</p>
+	<p style={p1}>Currently residing in Cape Town, South Africa</p>
 	</Col>
     <Col>
-	<p style={p}>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+	<p style={p}>I am continuously motivated and committed to learning and inspiring through my love for creating user experiences and products that not only push boundaries but try to redefine them. I believe in serving through leadership and being an asset to my colleagues through engagement and encouragement. I take initiative in my personal and professional life to be efficient at what I do and apply myself further to what I enjoy - and yield better results, regardless of the resources available. I am open to learning and I never shy away from engaging with my mistakes, to ultimately do better using those experiences.</p>
 	<Button className="button raised btn-light btn-space" href="https://github.com/leratorabotapi">View Works</Button>
-	<Button className="button raised btn-light" href="#" >Download Resume</Button>
+	<Button className="button raised btn-light" href="https://drive.google.com/file/d/12EHCRP3XVYWsbmPCDgbfmJkyUPTunQg9/view?usp=sharing">Download Resume</Button>
 	</Col>
   </Row>
 </Container>
